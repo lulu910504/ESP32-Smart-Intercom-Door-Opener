@@ -1,4 +1,4 @@
-# ESP32-Smart-Intercom-Door-Openeㄐ
+# ESP32-Smart-Intercom-Door-Opener
 
 This project implements a smart intercom door opener using an ESP32 and a relay module.  
 The ESP32 controls the relay to simulate pressing the original intercom unlock button, allowing the door to be opened remotely through WiFi.
